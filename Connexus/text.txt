@@ -1,0 +1,5 @@
+git+https://github.com/LyzrCore/lyzr-automata.git@main
+streamlit==1.32.2
+python-dotenv==1.0.1
+pypdf==4.1.0
+fastapi==0.110.1
