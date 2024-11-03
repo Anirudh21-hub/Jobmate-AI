@@ -1,0 +1,2 @@
+# Jobmate AI
+ Connexus is a cold mail generator built using Llama 3.1 and Flask, designed to create efficient and targeted communications. CVSync is an application for generating ATS scores that utilizes Gemini Vision Pro to streamline resume evaluations. Additionally, CarrerBot is an advanced chatbot built with the latest GPT technology, providing prompt and accurate responses to enhance user engagement and experience.
